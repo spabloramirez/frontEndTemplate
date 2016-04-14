@@ -7,7 +7,6 @@
     * ```bower.json``` _(dependencias front)_
     * ```README.md```
     * ```.gitignore```
-    * ```.editorconfig``` _(configuracion compartida para editores)_
     * ```.jshintrc``` _(test de sintaxis)_
     
 
