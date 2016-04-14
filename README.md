@@ -1,0 +1,2 @@
+# frontEndTemplate
+grunt, angular, npm
